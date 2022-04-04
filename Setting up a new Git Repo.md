@@ -16,4 +16,4 @@ Setting up a new Git Repo
     git push -u origin master
     
 In Geotab this is
-    git remote add origin git@git.geotab.com:<groupname>/<reponame>.git
+    `git remote add origin git@git.geotab.com:<groupname>/<reponame>.git`
