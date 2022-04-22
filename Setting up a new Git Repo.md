@@ -11,6 +11,8 @@ Setting up a new Git Repo
     git push -u origin master
     
 where `<name>` is `markwgirard`
+
+Use `git add -A` to add all files in current directory.
     
 ##Push an existing repository from the command line
 
